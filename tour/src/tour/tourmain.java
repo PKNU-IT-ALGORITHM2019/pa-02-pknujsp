@@ -15,7 +15,6 @@ public class tourmain
 	static double min = Double.MAX_VALUE;
 	static int[] visited_node;
 	static Stack<Integer> stack = new Stack<Integer>();
-	static Deque<Integer> route = new ArrayDeque<>();
 	static ArrayList<Integer> solution;
 
 	public static void main(String[] args)
